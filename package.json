@@ -1,0 +1,29 @@
+{
+  "name": "meantutorial",
+  "version": "1.0.0",
+  "description": "MEAN STACKAGE",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harveycarpenter/Mean2.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack"
+  ],
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harveycarpenter/Mean2/issues"
+  },
+  "homepage": "https://github.com/harveycarpenter/Mean2#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.12.2"
+  },
+  "devDependencies": {
+  }
+}
